@@ -60,7 +60,7 @@ body {
 }
 
 .caixa {
-  background: #5ec13e;                /* Fundo claro para destacar o bloco do fundo da página */
+  background: #d7e2d4;                /* Fundo claro para destacar o bloco do fundo da página */
   padding: 16px;                      /* Respiro interno do bloco */
   border: 1px solid #e5e7eb;          /* Borda sutil para delimitar o bloco */
   border-radius: 8px;                 /* Cantos arredondados suaves */
@@ -77,11 +77,11 @@ body {
 
 /* Variações visuais para destacar blocos */
 .destaque {
-  background: #063df3;                /* Fundo levemente azulado para chamar atenção */
+  background: #7d94de;                /* Fundo levemente azulado para chamar atenção */
 }
 
 .importancia {
-  background: #f1901a;                /* Fundo levemente alaranjado para outra ênfase */
+  background: #989490;                /* Fundo levemente alaranjado para outra ênfase */
 }
 
 .introducao {
@@ -90,7 +90,7 @@ body {
 
 /* Cartões simples reutilizáveis (se precisar) */
 .bloco {
-  background: #f30303;                /* Fundo branco para o cartão */
+  background: #f49191;                /* Fundo branco para o cartão */
   border: 1px solid #e5e7eb;          /* Borda sutil do cartão */
   border-radius: 8px;                 /* Cantos arredondados do cartão */
   padding: 12px;                      /* Respiro interno do cartão */
@@ -99,7 +99,7 @@ body {
 
 /* =============== GALERIA EM GRADE (ATUAL) =============== */
 .galeria {
-  background: #1c1c1c;                /* Fundo branco do bloco de galeria */
+  background: #565353;                /* Fundo branco do bloco de galeria */
 }
 
 .imagens-galeria {
